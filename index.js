@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = '🐵RANZ BOT🐵'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const instagram = 'https://instagram.com/hh.ranz'; 
+const telegram = 'belum ada'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'belum ada';
 //const grupch1 = 'https://chat.whatsapp.com/CubgTxh7gAJ1t7wEnRgiZW'; 
 //const grupch2 = 'belum ada grup' ; 
 const
